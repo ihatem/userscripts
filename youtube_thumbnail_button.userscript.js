@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @run-at       document-idle
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.3/waitForKeyElements.js
-// @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/main/youtube_thumbnail_button.userscript.js
-// @downloadURL  https://raw.githubusercontent.com/ihatem/userscripts/main/youtube_thumbnail_button.userscript.js
+// @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/youtube_thumbnail_button.userscript.js
+// @downloadURL  https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/youtube_thumbnail_button.userscript.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
