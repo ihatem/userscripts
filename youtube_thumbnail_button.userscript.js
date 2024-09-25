@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube Thumbnail Button
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-15
+// @version      2024-09-25
 // @description  Adds a button to the youtube video page to get the thumbnail of the video in different sizes.
 // @author       You
 // @match        https://*.youtube.com/*
