@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Close medium membership footer banner
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  try to take over the world!
 // @author       You
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
@@ -16,6 +16,5 @@
 waitForKeyElements("button[data-testid=close-button]", actionFunction);
 
 function actionFunction(jNode) {
-  //-- DO WHAT YOU WANT TO THE TARGETED ELEMENTS HERE.
   jNode.click();
 }
