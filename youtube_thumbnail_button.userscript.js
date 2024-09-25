@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube Thumbnail Button
 // @namespace    http://tampermonkey.net/
-// @version      2024-09-25
+// @version      1.0.0
 // @description  Adds a button to the youtube video page to get the thumbnail of the video in different sizes.
 // @author       You
 // @match        https://*.youtube.com/*
@@ -47,8 +47,8 @@ function appendThumbnailButtonToActions() {
   anchor.style.cursor = "pointer";
 
   // fix height to 36px
-  anchor.style.height = "35px";
-  anchor.style.width = "35px";
+  anchor.style.height = "36px";
+  anchor.style.width = "36px";
   anchor.style.textDecoration = "none";
   anchor.style.color = "white";
 
