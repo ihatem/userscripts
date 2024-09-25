@@ -47,8 +47,8 @@ function appendThumbnailButtonToActions() {
   anchor.style.cursor = "pointer";
 
   // fix height to 36px
-  anchor.style.height = "36px";
-  anchor.style.width = "36px";
+  anchor.style.height = "35px";
+  anchor.style.width = "35px";
   anchor.style.textDecoration = "none";
   anchor.style.color = "white";
 
