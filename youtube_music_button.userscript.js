@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name         Youtube Music Button In Youtube
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ihatem/userscripts
 // @version      1.0.0
 // @description  Add youtube music button to youtube actions
-// @author       You
+// @author       @ihatem
 // @match        https://*.youtube.com/watch?v=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @homepage     https://github.com/ihatem
+// @homepageURL  https://github.com/ihatem
+// @supportURL   https://github.com/ihatem/userscripts/issues
 // @run-at       document-idle
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.3/waitForKeyElements.js
 // @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/youtube_music_button.userscript.js
