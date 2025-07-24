@@ -51,8 +51,6 @@ function appendMusicButtonToActions() {
   // Get the current URL
   const currentUrl = window.location.href;
 
-  console.log({ currentUrl });
-
   // Transform it to a YouTube Music URL
   const musicUrl = currentUrl.replace("www.youtube", "music.youtube");
 
