@@ -11,8 +11,8 @@
 // @homepage     https://github.com/ihatem
 // @homepageURL  https://github.com/ihatem
 // @supportURL   https://github.com/ihatem/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/medium_close_membership_footer.userscript.js
-// @downloadURL  https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/medium_close_membership_footer.userscript.js
+// @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/medium_close_membership_footer.user.js
+// @downloadURL  https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/medium_close_membership_footer.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
