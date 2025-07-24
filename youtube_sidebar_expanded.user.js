@@ -13,7 +13,7 @@
 // @require      https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.3/waitForKeyElements.js
 // @updateURL    https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/youtube_sidebar_expanded.user.js
 // @downloadURL  https://raw.githubusercontent.com/ihatem/userscripts/refs/heads/main/youtube_sidebar_expanded.user.js
-// @grant        GM_addStyle
+// @grant        none
 // ==/UserScript==
 
 (async function () {
