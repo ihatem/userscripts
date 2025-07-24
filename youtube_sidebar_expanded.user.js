@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Youtube Thumbnail Button
+// @name         YouTube Sidebar Always Expanded
 // @namespace    https://github.com/ihatem/userscripts
 // @version      1.0.0
-// @description  Adds a button to the youtube video page to get the thumbnail of the video in different sizes.
+// @description  Force YouTube sidebar to always open
 // @author       @ihatem
 // @match        https://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
