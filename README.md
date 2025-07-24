@@ -4,16 +4,16 @@ A collection of handy userscripts for enhancing my web experience. Each script i
 
 ## Scripts
 
-#### Youtube Thumbnail Button
+#### ▶️ Youtube Thumbnail Button
 Adds a button to YouTube video pages to quickly access the video thumbnail.
 
-#### Youtube Music Button In Youtube
+#### ▶️ Youtube Music Button In Youtube
 Adds a button to YouTube video pages to open the same video directly in YouTube Music.
 
-#### Youtube Sidebar Expanded
+#### ▶️ Youtube Sidebar Expanded
 Automatically expands the YouTube sidebar for easier navigation.
 
-#### Medium Close Membership Footer
+#### ▶️ Medium Close Membership Footer
 Automatically closes the membership footer banner on Medium articles.
 
 ## Installation
